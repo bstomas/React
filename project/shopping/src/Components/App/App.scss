@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  font-family: Comic Sans, Comic Sans MS, cursive;
+  background-color: beige;
+
+  .section {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    height: max-content;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-template-rows: repeat(2, auto);
+  }
+  .form {
+    text-align: start;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    width: 50%;
+    gap: 10px 10px;
+  }
+
+  .foot {
+    background-color: orange;
+  }
+}
+
+
+

@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+
+  .header {
+    background-color: black;
+    margin: 0;
+  }
+
+    .greenColor {
+		background-color: green;
+	  }
+	  .radius {
+		border-radius: 50%;
+	  }
+	  .colorRed {
+		color: red;
+	  }
+	  .bigSize {
+		width: 500px;
+		height: 500px;
+	  }
+	  .roundedEdges {
+		border-radius: 20%;
+	  }
+  }

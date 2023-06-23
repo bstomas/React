@@ -1,0 +1,28 @@
+.header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    padding-top: 70px;
+}
+
+.logo {
+    top: 0;
+    position: fixed;
+    display: flex;
+    max-block-size: 10%;
+}
+
+.h1 {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 20px;
+    margin-right: 10%;
+}
+
+.text {
+    background-color: transparent;
+    color: lightblue;
+    text-transform: uppercase;
+    text-decoration: none;
+}
